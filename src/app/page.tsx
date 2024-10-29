@@ -1,3 +1,4 @@
+// REF https://github.com/facebook/react/issues/28923
 "use client";
 
 import { useEffect, useState } from "react";
